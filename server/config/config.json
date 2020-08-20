@@ -1,0 +1,7 @@
+{
+    "development": {
+        "PORT": 8001,
+        "MONGODB_URI": "mongodb://localhost:27017/user-auth",
+        "JWT_SECRET": "988@125"
+    }
+}
